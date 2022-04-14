@@ -1,6 +1,6 @@
 {
-	"ip":"moregus.aternos.me",
+	"ip":"FarmerSMP1886.aternos.me",
 	"port": "40290",
-	"name": "afkbot1",
-	"auto-night-skip":"true"
+	"name": "Honest Farmer Ever",
+	"auto-night-skip":"false"
 }
